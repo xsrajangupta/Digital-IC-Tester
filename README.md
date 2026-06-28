@@ -107,43 +107,39 @@ The project was tested with both functional and intentionally faulty ICs.
 
 ---
 
-## 📷Project Images
+## Project Images
 
 Place your images inside the **images** folder.
 
 ### Hardware Setup
 
-![Setup](images/setup.jpg)
+<img width="558" height="320" alt="hardware circuit" src="https://github.com/user-attachments/assets/450a250c-1f0a-44ed-9dcd-d335a7ccafc3" />
 
-### Circuit Diagram
 
-![Circuit](images/circuit_diagram.png)
+### Block Diagram
+
+<img width="657" height="408" alt="block diagram" src="https://github.com/user-attachments/assets/c84c0a16-2159-4a3c-9cd6-02312a70e8c8" />
+
 
 ### Testing 
 
-![AND](images/testing_and.jpg)
+<img width="558" height="347" alt="testing" src="https://github.com/user-attachments/assets/76354369-1b5d-4183-8e97-2e2114c16c5a" />
 
-### Testing OR Gate
 
-![OR](images/testing_or.jpg)
 
-### Testing NOT Gate
-
-![NOT](images/testing_not.jpg)
 
 ---
 
-## 🎥 Project Demonstration
+##  Project Demonstration
 
 Watch the complete working model here:
 
 **▶ Google Drive Video**
-
-https://drive.google.com/file/d/1xPILlLeKeK-KiLPB_d2OFwuPdc2gzpxe/view?usp=sharing
+[(https://drive.google.com/file/d/1xPILlLeKeK-KiLPB_d2OFwuPdc2gzpxe/view?usp=sharing)
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Support additional 7400-series ICs
 - Support CMOS 4000-series ICs
@@ -154,7 +150,7 @@ https://drive.google.com/file/d/1xPILlLeKeK-KiLPB_d2OFwuPdc2gzpxe/view?usp=shari
 
 ---
 
-## 📚 Applications
+##  Applications
 
 - Electronics Laboratories
 - Educational Institutions
@@ -168,8 +164,8 @@ https://drive.google.com/file/d/1xPILlLeKeK-KiLPB_d2OFwuPdc2gzpxe/view?usp=shari
 
 **Srajan Gupta**
 
-B.Tech Electronics and Communication Engineering  
-VIT Vellore
+B.Tech Electronics and Communication Engineering @ VIT VELLORE
+
 
 📧 Email: **srajang544@gmail.com**
 
